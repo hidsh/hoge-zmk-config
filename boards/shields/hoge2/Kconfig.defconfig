@@ -1,0 +1,4 @@
+if SHIELD_HOGE2
+  config ZMK_KEYBOARD_NAME
+    default "hoge2"
+endif

@@ -1,0 +1,9 @@
+file_format: "1"
+id: hoge2
+name: hoge2 keyboard
+type: shield
+url: https://github.com/TODO: USER_NAME/hoge2-zmk-config
+requires: [seeeduino_xiao_ble]  # TODO: as you like
+features:
+  - keys
+  # TODO: add some features
